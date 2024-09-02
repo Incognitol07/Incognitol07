@@ -1,10 +1,12 @@
-# 💫About Me :
-🌱 Currently Crafting: OOP projects that bring ideas to life!
-🤝 Eager to Collaborate On: Open source adventures—especially the big, bold, and impactful ones!
-🛠️ Happy to Help With: Debugging Python puzzles, polishing code to perfection, and making things run smoother with less redundancy.
-📚 Diving Deep Into: The wonderful world of Python—always learning, always coding.
-💬 Chat with Me About: Python magic, OOP wonders, and my passion for all things sustainable and nature-loving.
+# 💫 About Me :
+
+🌱 Currently Crafting: OOP projects that bring ideas to life!  
+🤝 Eager to Collaborate On: Open source adventures—especially the big, bold, and impactful ones!  
+🛠️ Happy to Help With: Debugging Python puzzles, polishing code to perfection, and making things run smoother with less redundancy.  
+📚 Diving Deep Into: The wonderful world of Python—always learning, always coding.  
+💬 Chat with Me About: Python magic, OOP wonders, and my passion for all things sustainable and nature-loving.  
 🎉 Fun Fact: I’m all about sustainability and conservation—let’s save the planet one line of code at a time!
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abrahamadelodun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-adelodun) 
