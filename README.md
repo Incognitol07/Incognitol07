@@ -4,7 +4,7 @@
 🤝 Eager to Collaborate On: Open source adventures—especially the big, bold, and impactful ones!  
 🛠️ Happy to Help With: Debugging Python puzzles, polishing code to perfection, and making things run smoother with less redundancy.  
 📚 Diving Deep Into: The wonderful world of Python—always learning, always coding.  
-💬 Chat with Me About: Python magic, OOP wonders, and my passion for all things sustainable and nature-loving.  
+💬 Chat with Me About: Python , OOP tricks, and my passion for all things sustainable and nature-loving.  
 🎉 Fun Fact: I’m all about sustainability and conservation—let’s save the planet one line of code at a time!
 
 
