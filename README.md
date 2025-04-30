@@ -3,12 +3,7 @@
 
 # 💫 About Me :
 
-🌱 Currently Crafting: Backend projects that bring ideas to life!  
-🤝 Eager to Collaborate On: Open source projects—especially the big, bold, and impactful ones!  
-🛠️ Happy to Help With: Debugging Python puzzles, polishing code to perfection, and making things run smoother with less redundancy.  
-📚 Diving Deep Into: The wonderful world of Python—always learning, always coding.  
-💬 Chat with Me About: Python , API security, and my passion for all things sustainable and nature-loving.  
-🎉 Fun Fact: I’m all about sustainability and conservation—let’s save the planet one line of code at a time!
+I’m Adelodun, a backend engineer who turns complex requirements into sleek, production-ready FastAPI services. With two years of experience building everything from monoliths to data pipelines and secure transaction systems, I thrive on clean code, Dockerized deployments, and rock-solid API design. I love teaming up on open-source challenges, optimizing Python workflows, and exploring security best practices—all fueled by my passion for sustainability and nature. Let’s build something that scales and makes a difference!
 
 
 ## 🌐Socials
