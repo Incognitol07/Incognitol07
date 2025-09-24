@@ -4,7 +4,12 @@
 #  I Build. Therefore, I Am.
 
 
-Building is my way of understanding the world. If something can be better, faster, clearer, I build it. If something seems interesting, I build it. If I don’t know how, I figure it out — then build it anyway. That’s who I am. That’s Abraham Adelodun.
+Building is my way of understanding the world.  
+If something *can* be better, faster, clearer, I **build it**.  
+If something *seems* interesting, I **build it**.  
+If I **don’t** know how, I **figure it out** — then *build it anyway*.  
+That’s **who I am**. That’s **Abraham Adelodun**.
+
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Incognitol07&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
