@@ -8,9 +8,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Incognitol07&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitol07&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Incognitol07&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
