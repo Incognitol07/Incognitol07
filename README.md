@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/abrahamadelodun"><img src="https://api.daily.dev/devcards/v2/wwaZ6i4K2Poj09YKmUcHb.png?type=wide&r=g12" width="652" alt="Abraham Adelodun's Dev Card"/></a>
 
 
-#  I Build. Therefore, I Am.
+#  Builder. Learner. Thinker
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Incognitol07&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
