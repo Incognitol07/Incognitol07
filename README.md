@@ -2,7 +2,7 @@
 <img width="924" height="520" alt="simplicity is sophistication" src="https://github.com/user-attachments/assets/045ce8ef-65cc-4a8a-a846-027fcc7d7311" />
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Incognitol07&theme=dark&hide_border=true)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Incognitol07&theme=dark&hide_border=true)<br/> -->
 
 
 Curious by default...
