@@ -7,7 +7,7 @@ So far, I've:
 
 More on [abrahamadelodun.com](https://abrahamadelodun.com)
 
-One of my dreams is an super-smart AI model that fits in about 10MB, can run on any CPU, and uses tools to get stuff done.
+One of my dreams is to build a super-smart AI model that fits in about 10MB, can run on any CPU, and uses tools to get stuff done.
 I also capture my thoughts on [Substack](https://abrahamadelodun.substack.com/)
 
 <img width="924" height="520" alt="simplicity is sophistication" src="https://github.com/user-attachments/assets/045ce8ef-65cc-4a8a-a846-027fcc7d7311" />
