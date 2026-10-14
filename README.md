@@ -1,7 +1,7 @@
 Hi, I'm a product engineer who loves creating software that people really, really love to use every day.
 
 So far, I've:
-- Built a learning experience platform for the Nigerian federal government with 91% of users active each month
+- Built a learning experience platform for the Nigerian federal government with 91% active users each month
 - Built an operations dashboard for a garment care firm that cut order turnaround by 31%
 - Built [react-native-openwakeword](https://github.com/Incognitol07/react-native-openwakeword), a free, offline wake-word detection React Native package that detects wake words in ~16ms
 
